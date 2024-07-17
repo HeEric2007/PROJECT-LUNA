@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca8da3f5-3f05-4168-bf50-afbc235ec8ab" name="Changes" comment="add frontend">
-      <change beforePath="$PROJECT_DIR$/backend/backendapp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/backendapp/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="ca8da3f5-3f05-4168-bf50-afbc235ec8ab" name="Changes" comment="changed one bug in application.properties" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721067380847</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="changed one bug in application.properties">
+      <option name="closed" value="true" />
+      <created>1721067811584</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721067811584</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,6 +217,7 @@
     <MESSAGE value="Working REST api" />
     <MESSAGE value="Got rid of android app for PWA!!!" />
     <MESSAGE value="add frontend" />
-    <option name="LAST_COMMIT_MESSAGE" value="add frontend" />
+    <MESSAGE value="changed one bug in application.properties" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed one bug in application.properties" />
   </component>
 </project>
